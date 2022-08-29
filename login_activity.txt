@@ -1,0 +1,12 @@
+2022-08-29 10:04:30.24 Username: admin Login Attempt: Success
+2022-08-29 10:22:44.576 Username: test Login Attempt: Success
+2022-08-29 14:47:27.116 Username: test Login Attempt: Success
+2022-08-29 14:49:39.542 Username: test Login Attempt: Success
+2022-08-29 14:50:34.363 Username: test Login Attempt: Success
+2022-08-29 14:53:03.083 Username: test Login Attempt: Success
+2022-08-29 15:00:00.13 Username: test Login Attempt: Success
+2022-08-29 15:11:20.829 Username: test Login Attempt: Success
+2022-08-29 15:12:01.109 Username: test Login Attempt: Success
+2022-08-29 15:12:40.077 Username: test Login Attempt: Success
+2022-08-29 15:14:18.591 Username: test Login Attempt: Success
+2022-08-29 15:16:50.372 Username: test Login Attempt: Success
